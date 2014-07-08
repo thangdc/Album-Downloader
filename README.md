@@ -11,4 +11,11 @@ Thông tin về lỗi và những góp ý thì mọi người truy cập tại �
 
 Rất mong nhận được sự phản hồi từ các bạn.
 
+Chi tiết các thư mục và tập tin:
+
+1. AlbumDownloader.exe -> Chương trình tải nhạc Album Downloader
+2. Db4objects.Db4o.dll -> ThirdParty dùng để lưu trữ các thông tin liên quan đến chương trình
+3. ffmpeg.exe -> Dùng để trích xuất mp3 từ youtube (vẫn chưa hoàn thành)
+4. xulrunner -> Thư mục này chứa thư viện web browser mà các bạn dùng để duyệt website.
+
 Xin chân thành cảm ơn.
